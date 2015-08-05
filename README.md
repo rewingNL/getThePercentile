@@ -12,5 +12,5 @@ is the value (or score) below which 20 percent of the observations may be found.
 This UDF can be placed anywhere within a application.
 
 ## Example
-  returnPercentile(numberList='247427;148000;157200;129964;177983.85;117727.27;112843.33;150000;36000;152185.71, percentileNumber=20.5)
+  returnPercentile(numberList='247427;148000;157200;129964;177983.85;117727.27;112843.33;150000;36000;152185.71', percentileNumber=20.5)
 </p>
